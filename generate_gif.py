@@ -19,7 +19,7 @@ def generate_gif(name, folder_path):
             writer.append_data(image)
 
 
-name = "gif/multi_9"
+name = "gif/gif_0"
 folder_path = "result"
 
 
